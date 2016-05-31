@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Counter</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add_to_my_list">Add CountDown</string>
+
+    <string name="add_counter_youre_counting_towards">"You're counting towards "</string>
+    <string name="add_counter_at">" at "</string>
 </resources>
